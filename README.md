@@ -1,1 +1,1 @@
-# N-Queen-Solver
+# N-Queen_Solver
